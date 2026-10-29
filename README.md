@@ -23,7 +23,8 @@ This project analyzes customer churn using Python and Power BI to identify custo
 
 📈 Dashboard Preview
 
-"Customer Churn Dashboard" (customer_churn_dashboard.png.png)
+## 📈 Dashboard Preview
+![Customer Churn Dashboard](customer_churn_dashboard.png.png)
 
 📊 Key Analysis Areas
 
